@@ -1,0 +1,6 @@
+  //add a number in array
+  let arr=[1,2,7,9,4,67]
+  let a=prompt("enter za number which you want to add")
+  a=Number.parseInt(a)
+  arr.push(a)
+  console.log(arr) 
